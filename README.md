@@ -405,10 +405,6 @@ seasonal-agriculture-performance-analysis/
 ├── seasonal_agriculture_analysis.ipynb
 │
 ├── seasonal_agriculture_performance_dataset.csv
-│
-└── images/
-    └── analysis_visualizations/
-```
 
 ---
 
